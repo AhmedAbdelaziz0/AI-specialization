@@ -37,6 +37,6 @@ plt.quiver(X, Y, dX, dY, scale=50, color='red')
 
 plt.xlabel('X')
 plt.ylabel('Y')
-plt.title('Gradient of the Function f = x^2 + y ^ 2')
+plt.title('Gradient of the Function')
 plt.grid(True)
 plt.show()
